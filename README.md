@@ -48,3 +48,5 @@
 
 原版在低渲染帧率或卡顿时可能丢失模拟步。为满足“1× 与原版一致”，1× 保留原行为；不能将低帧率下受影响的原版实测耗时当作精准倍速的基准。
 
+## 参考项目
+https://github.com/aeoliannn/KingdomRushOrigins-2xSpeedMod
